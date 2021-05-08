@@ -1,2 +1,1 @@
-# express-first
-A first node/express sample
+# Lab6: graphQL
